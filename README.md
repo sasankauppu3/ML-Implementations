@@ -1,6 +1,5 @@
 # ML-Implementations
-Homeworks from Unsupervised Data Mining Coursework which consisted of Machine Learning Algorithm implementations and understanding of Data Science problems in daily scenarios
-
+Homeworks from Unsupervised Machine Learning Coursework which consisted of Machine Learning Algorithm implementations and analyzing of Data Science problems in daily scenarios. 
 
 
 DATASETS used for this courses are - 

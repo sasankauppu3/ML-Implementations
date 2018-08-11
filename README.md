@@ -5,8 +5,6 @@
 - Worked on TensorfFlow AutoEncodings and Word Vectors along with Neural Nets and some supervised classification algorithms
 - Implemented Sampling techniques and Summarization, Topic Modeling for Texts. 
 - Worked on community detection in Social graphs and Recommender systems using collaborative filtering
-Few Datasets used include 20 NewsGroups, MNIST, UCI/Household Dataset, DUC 2001 summarization dataset, MovieLens 100K Ratings and Friendster Social Graph
-See project Unsupervised Machine Learning analysis
 
 
 DATASETS used for this courses are - 

@@ -1,5 +1,12 @@
-# ML-Implementations
-Homeworks from Unsupervised Machine Learning Coursework which consisted of Machine Learning Algorithm implementations and analyzing of Data Science problems in daily scenarios. 
+## This is a part of Unsupervised Machine Learning Coursework. Please check each folder inside for implementations along with problem statements. The Work includes:
+
+- Implemented clustering algorithms such as KNN, Kmeans, and Gaussian Mixture model etc.
+- Analysed different feature selection algorithms along with Dimensionality reduction algorithms like PCA and HAAR like features for Images
+- Worked on TensorfFlow AutoEncodings and Word Vectors along with Neural Nets and some supervised classification algorithms
+- Implemented Sampling techniques and Summarization, Topic Modeling for Texts. 
+- Worked on community detection in Social graphs and Recommender systems using collaborative filtering
+Few Datasets used include 20 NewsGroups, MNIST, UCI/Household Dataset, DUC 2001 summarization dataset, MovieLens 100K Ratings and Friendster Social Graph
+See project Unsupervised Machine Learning analysis
 
 
 DATASETS used for this courses are - 

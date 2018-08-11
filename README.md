@@ -1,4 +1,4 @@
-## This is a part of Unsupervised Machine Learning Coursework. Please check each folder inside for implementations along with problem statements. The Work includes:
+### This is a part of Unsupervised Machine Learning Coursework. Please check each folder inside for implementations along with problem statements. The Work includes:
 
 - Implemented clustering algorithms such as KNN, Kmeans, and Gaussian Mixture model etc.
 - Analysed different feature selection algorithms along with Dimensionality reduction algorithms like PCA and HAAR like features for Images
